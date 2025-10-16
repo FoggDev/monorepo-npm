@@ -1,3 +1,1 @@
-export function formatGreeting(name: string) {
-  return `Hello, ${name}!`;
-}
+export * from "./utils/tailwind";
